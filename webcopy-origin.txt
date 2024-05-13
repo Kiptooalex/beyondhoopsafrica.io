@@ -1,0 +1,1523 @@
+Uri: https://cdn.jsdelivr.net/combine/npm/flickity@2.2.1/dist/flickity.min.css,npm/flickity-fade@1.0.0/flickity-fade.min.css?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\combine\npm\flickity@2.2.1\dist\flickity.min.css,npm\flickity-fade@1.0.0\flickity-fade.min-1.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/combine/npm/flickity@2.2.1/dist/flickity.pkgd.min.js,npm/flickity-fade@1.0.0?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\combine\npm\flickity@2.2.1\dist\flickity.pkgd.min.js,npm\flickity-fade@1.0-1.0
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/combine/npm/greensock@1.20.2,npm/scrollmagic@2.0.7/scrollmagic/minified/ScrollMagic.min.js,npm/scrollmagic@2.0.7/scrollmagic/minified/plugins/animation.gsap.min.js,npm/is-in-viewport@3.0.4,npm/lozad@1.16.0,npm/flickity@2.2.1/dist/flickity.pkgd.min.js,npm/paroller.js@1.4.0?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\combine\npm\greensock@1.20.2,npm\scrollmagic@2.0.7\scrollmagic\minified\ScrollMagic.min.js,npm\scrollmagic@2.0.7\scrollmagic\minified\plugins\animation.gsap.min.js,npm\is-in-viewport@3.0.4,npm\parol-1.0
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/combine/npm/jquery@3.3.1,npm/jquery.easing@1.4.1?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\combine\npm\jquery@3.3.1,npm\jquery.easing@1.4-1.1
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min-1.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\gh\fancyapps\fancybox@3.5.7\dist\jquery.fancybox.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/dropkickjs@2.2.4/dist/dropkick.min.js?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\npm\dropkickjs@2.2.4\dist\dropkick.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/gsap-ssr@2.1.4/umd/TweenMax.min.js?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\npm\gsap-ssr@2.1.4\umd\TweenMax.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/is-in-viewport@3.0.4/lib/isInViewport.min.js?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\npm\is-in-viewport@3.0.4\lib\isInViewport.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/locomotive-scroll@4.1.1/dist/locomotive-scroll.min.js?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\npm\locomotive-scroll@4.1.1\dist\locomotive-scroll.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\ajax\libs\gsap\3.6.0\gsap.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/ScrollTrigger.min.js?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\ajax\libs\gsap\3.6.0\ScrollTrigger.min-1.js
+Content Type: application/javascript
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/07/05103907/Bitmap-Copy-12.jpg?strip=all&lossy=1&resize=500%2C663&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\07\05103907\Bitmap-Copy-12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/07/05103907/Bitmap-Copy-17.jpg?strip=all&lossy=1&resize=500%2C678&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\07\05103907\Bitmap-Copy-17-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/07/05103908/Bitmap-Copy.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\07\05103908\Bitmap-Copy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/07/05103923/badge11.png?strip=all&lossy=1&resize=57%2C57&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\07\05103923\badge11-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/07/05103925/meet_the_hive.jpg?strip=all&lossy=1&resize=370%2C230&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\07\05103925\meet_the_hive-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/07/05103935/cityview.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\07\05103935\cityview-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/07/05103935/cityview_bw.jpg?strip=all&lossy=1&resize=324%2C230&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\07\05103935\cityview_bw-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/08/05111635/mbc-logo-x2.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\08\05111635\mbc-logo-x2-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/08/05113221/cropped-mbc-logo-x2.png?strip=all&lossy=1&resize=180%2C180&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\08\05113221\cropped-mbc-logo-x2-6.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/08/05113221/cropped-mbc-logo-x2.png?strip=all&lossy=1&resize=192%2C192&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\08\05113221\cropped-mbc-logo-x2-5.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/08/05113221/cropped-mbc-logo-x2.png?strip=all&lossy=1&resize=32%2C32&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\08\05113221\cropped-mbc-logo-x2-4.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/08/05113221/cropped-mbc-logo-x2.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\08\05113221\cropped-mbc-logo-x2-7.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/11/05103049/2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-30.jpg?strip=all&lossy=1&resize=480%2C330&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\11\05103049\2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-30-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/11/05103358/2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-42.jpg?strip=all&lossy=1&fit=1024%2C1018&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\11\05103358\2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-42-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/11/05103414/2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-43.jpg?strip=all&lossy=1&resize=1920%2C1080&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\11\05103414\2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-43-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/11/05103509/2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-46.jpg?strip=all&lossy=1&resize=1650%2C1080&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\11\05103509\2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-46-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/11/05103630/2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-67.jpg?strip=all&lossy=1&resize=690%2C880&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\11\05103630\2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-67-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/11/05103823/2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-91.jpg?strip=all&lossy=1&fit=300%2C247&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\11\05103823\2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-91-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/11/05104329/2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-122.jpg?strip=all&lossy=1&fit=214%2C300&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\11\05104329\2021.09.18-vs.-Derbyshire-Arrows-Pre-Season-122-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2021/11/06002423/download-e1650369146300.png?strip=all&lossy=1&resize=142%2C142&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\11\06002423\download-e1650369146300-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/17005124/Team-Anglia-Ruskin.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\17005124\Team-Anglia-Ruskin-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/17014124/UwdTfT1E-e1650156831482-1024x545.jpeg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\17014124\UwdTfT1E-e1650156831482-1024x545-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/17014124/UwdTfT1E-e1650156831482.jpeg?strip=all&lossy=1&resize=800%2C530&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\17014124\UwdTfT1E-e1650156831482-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/17024633/02-22-Manchester-Basketball-1735.jpg?strip=all&lossy=1&resize=500%2C680&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\17024633\02-22-Manchester-Basketball-1735-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/17120556/02-22-Manchester-Basketball-2673-e1650219249468.jpg?strip=all&lossy=1&resize=753%2C530&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\17120556\02-22-Manchester-Basketball-2673-e1650219249468-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/17123652/IMG-20220315-WA0012-e1650195499413.jpg?strip=all&lossy=1&resize=800%2C530&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\17123652\IMG-20220315-WA0012-e1650195499413-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/18070915/Chester-and-Louis-41.jpg?strip=all&lossy=1&resize=1920%2C1080&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\18070915\Chester-and-Louis-41-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/18070915/Chester-and-Louis-41.jpg?strip=all&lossy=1&resize=800%2C530&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\18070915\Chester-and-Louis-41-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/18070931/Chester-and-Louis-51.jpg?strip=all&lossy=1&resize=1920%2C1080&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\18070931\Chester-and-Louis-51-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/18070931/Chester-and-Louis-51.jpg?strip=all&lossy=1&resize=800%2C530&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\18070931\Chester-and-Louis-51-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/19092926/02-22-Manchester-Basketball-2561-1024x727.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\19092926\02-22-Manchester-Basketball-2561-1024x727-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/19093000/02-22-Manchester-Basketball-2586-1024x900.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\19093000\02-22-Manchester-Basketball-2586-1024x900-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/19093024/02-22-Manchester-Basketball-2595-1024x756.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\19093024\02-22-Manchester-Basketball-2595-1024x756-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/19093114/02-22-Manchester-Basketball-2603-1024x813.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\19093114\02-22-Manchester-Basketball-2603-1024x813-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/19093137/02-22-Manchester-Basketball-2784-1024x670.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\19093137\02-22-Manchester-Basketball-2784-1024x670-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/19113126/Chester-and-Louis-21-e1650364365682.jpg?strip=all&lossy=1&resize=370%2C230&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\19113126\Chester-and-Louis-21-e1650364365682-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/19231824/Dribble-Fashion.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\19231824\Dribble-Fashion-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/26033150/vs-Worcs-6-1024x576.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\26033150\vs-Worcs-6-1024x576-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/27213516/GMMC-Square.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\27213516\GMMC-Square-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/27213535/Bleep-Square.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\27213535\Bleep-Square-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/27213557/GLL.png?strip=all&lossy=1&fit=300%2C300&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\27213557\GLL-2.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/27213557/GLL.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\27213557\GLL-3.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/27213604/MCR-Active-Square.png?strip=all&lossy=1&fit=300%2C300&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\27213604\MCR-Active-Square-2.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/27213604/MCR-Active-Square.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\27213604\MCR-Active-Square-3.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/27213608/NBL-Square.png?strip=all&lossy=1&fit=300%2C300&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\27213608\NBL-Square-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/04/27213625/Nike-Square.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\27213625\Nike-Square-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/05/17105132/PCS-1024x576.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\05\17105132\PCS-1024x576-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/05/27195508/Dunscar-Timber-Engineering-Small-300x198.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\05\27195508\Dunscar-Timber-Engineering-Small-300x198-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/05/27195508/Dunscar-Timber-Engineering-Small.png?strip=all&lossy=1&fit=300%2C198&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\05\27195508\Dunscar-Timber-Engineering-Small-2.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/05/27195508/Dunscar-Timber-Engineering-Small.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\05\27195508\Dunscar-Timber-Engineering-Small-3.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/05/27201902/Indy-Motors-Logo-Black.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\05\27201902\Indy-Motors-Logo-Black-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/05/27223729/Bleep-UK-White.png?strip=all&lossy=1&fit=300%2C130&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\05\27223729\Bleep-UK-White-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/06/23130523/02-22-Manchester-Basketball-235-1-1024x683.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\06\23130523\02-22-Manchester-Basketball-235-1-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231721/Barrow-Thorns.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231721\Barrow-Thorns-3.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231721/Barrow-Thorns.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231721\Barrow-Thorns-2.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231741/Cheshire-Wire.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231741\Cheshire-Wire-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231745/Liverpool.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231745\Liverpool-2.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231745/Liverpool.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231745\Liverpool-3.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231751/Manchester-Giants.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231751\Manchester-Giants-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231814/Manchester-Kings.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231814\Manchester-Kings-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231818/Myerscough.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231818\Myerscough-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231823/Preston.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231823\Preston-2.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231823/Preston.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231823\Preston-3.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231828/Stockport-Falcons.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231828\Stockport-Falcons-3.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231828/Stockport-Falcons.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231828\Stockport-Falcons-2.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231841/Tameside-Vikings.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231841\Tameside-Vikings-3.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231841/Tameside-Vikings.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231841\Tameside-Vikings-2.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/08/29231908/Tamside-Basketball.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\08\29231908\Tamside-Basketball-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/09/30154757/2.png?strip=all&lossy=1&fit=179%2C300&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\09\30154757\2-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/09/30160932/3-1.png?strip=all&lossy=1&fit=172%2C300&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\09\30160932\3-1-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/09/30190806/vs.-Raptors-97-1024x683.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\09\30190806\vs.-Raptors-97-1024x683-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/09/30191001/vs.-Raptors-18.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\09\30191001\vs.-Raptors-18-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/09/30204703/vs.-Raptors-29-1024x788.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\09\30204703\vs.-Raptors-29-1024x788-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/09/30212942/vs.-Raptors-86.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\09\30212942\vs.-Raptors-86-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/01074053/vs.-Raptors-45.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\01074053\vs.-Raptors-45-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/01100937/vs.-Raptors-51.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\01100937\vs.-Raptors-51-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/01104035/vs.-Raptors-24.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\01104035\vs.-Raptors-24-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/01104139/vs.-Raptors-55.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\01104139\vs.-Raptors-55-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/01104422/vs.-Raptors-77.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\01104422\vs.-Raptors-77-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/01113132/Myerscough-White.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\01113132\Myerscough-White-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/04173145/Jessica-May-Design.png?strip=all&lossy=1&fit=300%2C108&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\04173145\Jessica-May-Design-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/14191353/La-Bona-Pasta-Transparent-300x300.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\14191353\La-Bona-Pasta-Transparent-300x300-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/14191438/Jessica-May-Design-Black-300x108.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\14191438\Jessica-May-Design-Black-300x108-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/14191605/Indy-Motors-Logo-Black-300x169.png?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\14191605\Indy-Motors-Logo-Black-300x169-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/15203532/IMG_6088.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\15203532\IMG_6088-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/23223237/vs.-Raptors-95-1.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\23223237\vs.-Raptors-95-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/23223324/vs.-Raptors-25.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\23223324\vs.-Raptors-25-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2022/10/23223904/Teesside-Lions.png?strip=all&lossy=1&resize=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\10\23223904\Teesside-Lions-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/06/24221939/Jeff-Jones-3.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\06\24221939\Jeff-Jones-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/06/24222004/IMG-20230624-WA0004.jpg?strip=all&lossy=1&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\06\24222004\IMG-20230624-WA0004-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/06/24225854/KITKING-LOGO-Transparent.png?strip=all&lossy=1&fit=300%2C117&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\06\24225854\KITKING-LOGO-Transparent-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/10/27215938/SM-2.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\10\27215938\SM-2-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/10/27220459/SM-18.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\10\27220459\SM-18-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/10/27220755/SM-27.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\10\27220755\SM-27-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/10/27221030/SM-30.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\10\27221030\SM-30-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/10/28065409/SM-35.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\10\28065409\SM-35-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/10/28084317/SM-21.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\10\28084317\SM-21-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/10/28151231/SM-54.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\10\28151231\SM-54-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/10/28151350/SM-45.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\10\28151350\SM-45-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/10/28151455/SM-39.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\10\28151455\SM-39-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/10/28151750/SM-7.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\10\28151750\SM-7-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/11/05192001/3-e1699212773234.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\11\05192001\3-e1699212773234-1.png
+Content Type: image/png
+
+Uri: https://ewkvfo5ewjv.exactdn.com/wp-content/uploads/2023/11/05195631/1.png?strip=all&lossy=1&resize=600%2C690&ssl=1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2023\11\05195631\1-1.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n-1.ttf
+Content Type: font/ttf
+
+Uri: https://manchesterbasketballclub-co-uk.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/04/16235324/Swarm-Promo.mp4
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\16235324\Swarm-Promo-1.mp4
+Content Type: video/mp4
+
+Uri: https://manchesterbasketballclub-co-uk.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/04/19122514/1650367369163_fb_video_1650367371091_1650367371091.mkv
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\19122514\1650367369163_fb_video_1650367371091_1650367371091-1.mkv
+Content Type: video/x-matroska
+
+Uri: https://manchesterbasketballclub-co-uk.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/04/28231218/Swarm-Promo-Wroe-Leyland.mp4
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2022\04\28231218\Swarm-Promo-Wroe-Leyland-1.mp4
+Content Type: video/mp4
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=651
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\ewww-image-optimizer\includes\lazysizes.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\assets\css\dist\basic.min-1.css
+Content Type: text/css
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\assets\css\dist\theme-components.min-1.css
+Content Type: text/css
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/assets/css/dist/theme-ie11.min.css?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\assets\css\dist\theme-ie11.min-1.css
+Content Type: text/css
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\assets\css\dist\theme.min-1.css
+Content Type: text/css
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/fonts/gform-icons-theme.svg?a2cayk
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\fonts\gform-icons-theme-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/fonts/gform-icons-theme.ttf?a2cayk
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\fonts\gform-icons-theme-1.ttf
+Content Type: font/ttf
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/fonts/gform-icons-theme.woff2?a2cayk
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\fonts\gform-icons-theme-1.woff2
+Content Type: font/woff2
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/fonts/gform-icons-theme.woff?a2cayk
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\fonts\gform-icons-theme-1.woff
+Content Type: font/woff
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/images/gf-creditcards-check.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\images\gf-creditcards-check-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/images/gf-creditcards.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\images\gf-creditcards-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/images/list-add.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\images\list-add-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/images/list-remove.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\images\list-remove-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/images/theme/down-arrow.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\images\theme\down-arrow-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/js/datepicker-legacy.min.js?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\js\datepicker-legacy.min-1.js
+Content Type: text/javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/js/datepicker.min.js?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\js\datepicker.min-1.js
+Content Type: text/javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\js\gravityforms.min-1.js
+Content Type: text/javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\js\jquery.json.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\js\placeholders.jquery.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\legacy\css\browsers.min-1.css
+Content Type: text/css
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/legacy/css/chosen-sprite.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\legacy\css\chosen-sprite-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/legacy/css/chosen-sprite@2x.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\legacy\css\chosen-sprite@2x-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\legacy\css\formreset.min-1.css
+Content Type: text/css
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\legacy\css\formsmain.min-1.css
+Content Type: text/css
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=2.6.9
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\gravityforms\legacy\css\readyclass.min-1.css
+Content Type: text/css
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/league-table-lite/public/assets/css/general.min.css?ver=1.12
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\league-table-lite\public\assets\css\general.min-1.css
+Content Type: text/css
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/league-table-lite/public/assets/js/general.min.js?ver=1.12
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\league-table-lite\public\assets\js\general.min-1.js
+Content Type: text/javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/league-table-lite/public/assets/js/tablesorter/jquery.tablesorter-min.js?ver=1.12
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\league-table-lite\public\assets\js\tablesorter\jquery.tablesorter-min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/search-filter-pro/public/assets/css/chosen-sprite.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\search-filter-pro\public\assets\css\chosen-sprite-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/search-filter-pro/public/assets/css/chosen-sprite@2x.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\search-filter-pro\public\assets\css\chosen-sprite@2x-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.5.1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\search-filter-pro\public\assets\css\search-filter.min-1.css
+Content Type: text/css
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/search-filter-pro/public/assets/img/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\search-filter-pro\public\assets\img\ui-icons_ffffff_256x240-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/search-filter-pro/public/assets/js/chosen.jquery.min.js?ver=2.5.1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\search-filter-pro\public\assets\js\chosen.jquery.min-1.js
+Content Type: text/javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/plugins/search-filter-pro/public/assets/js/search-filter-build.min.js?ver=2.5.1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\plugins\search-filter-pro\public\assets\js\search-filter-build.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/manifest.json
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\manifest-1.json
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/css/style.css?ver=1966511652357987
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\css\style-1.css
+Content Type: text/css
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/fonts/GeneralSans-Bold.woff
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\fonts\GeneralSans-Bold-1.woff
+Content Type: font/woff
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/fonts/GeneralSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\fonts\GeneralSans-Bold-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/fonts/GeneralSans-Light.woff
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\fonts\GeneralSans-Light-1.woff
+Content Type: font/woff
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/fonts/GeneralSans-Light.woff2
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\fonts\GeneralSans-Light-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/fonts/GeneralSans-Regular.woff
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\fonts\GeneralSans-Regular-1.woff
+Content Type: font/woff
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/fonts/GeneralSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\fonts\GeneralSans-Regular-1.woff2
+Content Type: application/font-woff2
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/fonts/GeneralSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\fonts\GeneralSans-Semibold-1.woff
+Content Type: font/woff
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/fonts/GeneralSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\fonts\GeneralSans-Semibold-1.woff2
+Content Type: font/woff2
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/fonts/Taki-bold.woff
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\fonts\Taki-bold-1.woff
+Content Type: font/woff
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/angle-left.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\angle-left-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/arrow-btn.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\arrow-btn-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/arrow-right.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\arrow-right-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/emphazise.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\emphazise-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/emphazise_yellow.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\emphazise_yellow-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/external_link.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\external_link-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/grunge-pattern.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\grunge-pattern-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/grunge02.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\grunge02-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/logo.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\logo-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/noizy_bg.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\noizy_bg-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/noizy_overlay.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\noizy_overlay-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/photo-frame.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\photo-frame-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/play-icon.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\play-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/scroll-circle.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\scroll-circle-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/share-icon.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\share-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/swipe.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\swipe-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/img/underlay_bg.png
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\img\underlay_bg-1.png
+Content Type: image/png
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/js/flexibility.min.js?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\js\flexibility.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/js/global.min.js?ver=144481652357988
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\js\global.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/js/marquee3k.min.js?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\js\marquee3k.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/themes/impression/media/dist/js/SplitText.min.js?ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\themes\impression\media\dist\js\SplitText.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp-content/uploads/2021/07/outlined-arrow.svg
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-content\uploads\2021\07\outlined-arrow-1.svg
+Content Type: image/svg+xml
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp/wp-includes/js/dist/a11y.min.js?ver=f23e5b9c6e4214e0ec04d318a7c9f898
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp\wp-includes\js\dist\a11y.min-1.js
+Content Type: text/javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp/wp-includes/js/dist/dom-ready.min.js?ver=93db39f6fe07a70cb9217310bec0a531
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp\wp-includes\js\dist\dom-ready.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp/wp-includes/js/dist/i18n.min.js?ver=9e36b5da09c96c657b0297fd6f7cb1fd
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp\wp-includes\js\dist\i18n.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp\wp-includes\js\dist\vendor\wp-polyfill.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp\wp-includes\js\jquery\ui\core.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.12.1
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp\wp-includes\js\jquery\ui\datepicker.min-1.js
+Content Type: text/javascript
+
+Uri: https://manchesterbasketballclub.b-cdn.net/wp/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp\wp-includes\wlwmanifest-1.xml
+Content Type: application/xml
+
+Uri: https://manchesterbasketballclub.co.uk/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/2022/04/11/manchester-swarm-trials-sign-up-open-now/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\2022\04\11\manchester-swarm-trials-sign-up-open-now\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/2022/05/16/season-wrap-up-2021-22/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\2022\05\16\season-wrap-up-2021-22\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/2022/05/17/end-of-season-celebration-announced/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\2022\05\17\end-of-season-celebration-announced\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/2022/05/18/swarm-seek-assistant-coach-and-team-manager/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\2022\05\18\swarm-seek-assistant-coach-and-team-manager\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/2022/06/23/manchester-swarm-nbl-entries-confirmed-for-2022-23/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\2022\06\23\manchester-swarm-nbl-entries-confirmed-for-2022-23\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/2022/10/14/weekend-preview-15-16-october-2022/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\2022\10\14\weekend-preview-15-16-october-2022\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/2023/06/26/jones-and-herstell-join-mbc-to-help-direct-next-phase/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\2023\06\26\jones-and-herstell-join-mbc-to-help-direct-next-phase\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/club-shop/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\club-shop\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/comments/feed/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://manchesterbasketballclub.co.uk/contact/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\contact\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/documents/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\documents\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/feed/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://manchesterbasketballclub.co.uk/fixtures/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\fixtures\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/join-the-team/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\join-the-team\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/league-tables/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\league-tables\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/match_reports/manchester-swarm-74-84-teesside-lions-national-cup-round-3-23-october-2022/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\match_reports\manchester-swarm-74-84-teesside-lions-national-cup-round-3-23-october-2022\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/match_reports/manchester-swarm-85-64-stockport-falcons-nbl-division-3-north-west-29-october-2022/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\match_reports\manchester-swarm-85-64-stockport-falcons-nbl-division-3-north-west-29-october-2022\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/match_reports/manchester-swarm-vs-anglia-ruskin-university-nbl-division-3-playoff-1st-round/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\match_reports\manchester-swarm-vs-anglia-ruskin-university-nbl-division-3-playoff-1st-round\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/match_reports/manchester-swarm-vs-anglia-ruskin-university-nbl-division-3-playoff-quarter-final/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\match_reports\manchester-swarm-vs-anglia-ruskin-university-nbl-division-3-playoff-quarter-final\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/match_reports/manchester-swarm-vs-liverpool-national-cup-round-2-9-october-2022/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\match_reports\manchester-swarm-vs-liverpool-national-cup-round-2-9-october-2022\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/match_reports/manchester-swarm-vs-liverpool-nbl-division-3-north-west-8-october-2022/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\match_reports\manchester-swarm-vs-liverpool-nbl-division-3-north-west-8-october-2022\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/match_reports/manchester-swarm-vs-myerscough-ii-nbl-division-3-north-west-2-october-2022/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\match_reports\manchester-swarm-vs-myerscough-ii-nbl-division-3-north-west-2-october-2022\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/match_reports/manchester-swarm-vs-preston-nbl-division-3-north-west-15-october-2022/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\match_reports\manchester-swarm-vs-preston-nbl-division-3-north-west-15-october-2022\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/nbpc-belle-vue/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\nbpc-belle-vue\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/newsroom/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\newsroom\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/our-community/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\our-community\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/our-story/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\our-story\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/partners-sponsors/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\partners-sponsors\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/antonio-darkwa/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\antonio-darkwa\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/barry-webster/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\barry-webster\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/benjamin-berwick/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\benjamin-berwick\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/conor-porter/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\conor-porter\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/curtly-ferguson/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\curtly-ferguson\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/elvis-ubasineke/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\elvis-ubasineke\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/ethan-conroy/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\ethan-conroy\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/jack-sankey/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\jack-sankey\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/jayden-johnson/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\jayden-johnson\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/joseph-swindells/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\joseph-swindells\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/louis-leyland/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\louis-leyland\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/nathan-schall/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\nathan-schall\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/player/omar-abbassy/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\player\omar-abbassy\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/results/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\results\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/roster/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\roster\index-2.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/roster/?_sft_team=senior-men
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\roster\index-3.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/terms-conditions/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\terms-conditions\index-1.htm
+Content Type: text/html
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-84
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-85
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F04%2F11%2Fmanchester-swarm-trials-sign-up-open-now%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-120
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F04%2F11%2Fmanchester-swarm-trials-sign-up-open-now%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-121
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F05%2F16%2Fseason-wrap-up-2021-22%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-122
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F05%2F16%2Fseason-wrap-up-2021-22%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-123
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F05%2F17%2Fend-of-season-celebration-announced%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-124
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F05%2F17%2Fend-of-season-celebration-announced%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-125
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F05%2F18%2Fswarm-seek-assistant-coach-and-team-manager%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-140
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F05%2F18%2Fswarm-seek-assistant-coach-and-team-manager%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-141
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F06%2F23%2Fmanchester-swarm-nbl-entries-confirmed-for-2022-23%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-138
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F06%2F23%2Fmanchester-swarm-nbl-entries-confirmed-for-2022-23%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-139
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F10%2F14%2Fweekend-preview-15-16-october-2022%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-136
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2022%2F10%2F14%2Fweekend-preview-15-16-october-2022%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-137
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2023%2F06%2F26%2Fjones-and-herstell-join-mbc-to-help-direct-next-phase%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-134
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2F2023%2F06%2F26%2Fjones-and-herstell-join-mbc-to-help-direct-next-phase%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-135
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fclub-shop%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-102
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fclub-shop%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-103
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-128
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-129
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fdocuments%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-106
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fdocuments%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-107
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Ffixtures%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-90
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Ffixtures%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-91
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fjoin-the-team%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-86
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fjoin-the-team%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-87
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fleague-tables%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-92
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fleague-tables%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-93
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-74-84-teesside-lions-national-cup-round-3-23-october-2022%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-132
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-74-84-teesside-lions-national-cup-round-3-23-october-2022%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-133
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-85-64-stockport-falcons-nbl-division-3-north-west-29-october-2022%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-130
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-85-64-stockport-falcons-nbl-division-3-north-west-29-october-2022%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-131
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-anglia-ruskin-university-nbl-division-3-playoff-1st-round%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-108
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-anglia-ruskin-university-nbl-division-3-playoff-1st-round%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-109
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-anglia-ruskin-university-nbl-division-3-playoff-quarter-final%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-110
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-anglia-ruskin-university-nbl-division-3-playoff-quarter-final%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-111
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-liverpool-national-cup-round-2-9-october-2022%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-116
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-liverpool-national-cup-round-2-9-october-2022%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-117
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-liverpool-nbl-division-3-north-west-8-october-2022%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-114
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-liverpool-nbl-division-3-north-west-8-october-2022%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-115
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-myerscough-ii-nbl-division-3-north-west-2-october-2022%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-112
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-myerscough-ii-nbl-division-3-north-west-2-october-2022%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-113
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-preston-nbl-division-3-north-west-15-october-2022%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-118
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fmatch_reports%2Fmanchester-swarm-vs-preston-nbl-division-3-north-west-15-october-2022%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-119
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fnbpc-belle-vue%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-98
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fnbpc-belle-vue%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-99
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Four-community%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-96
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Four-community%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-97
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Four-story%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-94
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Four-story%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-95
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fpartners-sponsors%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-100
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fpartners-sponsors%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-101
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fantonio-darkwa%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-156
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fantonio-darkwa%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-157
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fbarry-webster%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-148
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fbarry-webster%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-149
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fbenjamin-berwick%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-152
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fbenjamin-berwick%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-153
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fconor-porter%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-162
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fconor-porter%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-163
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fcurtly-ferguson%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-158
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fcurtly-ferguson%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-159
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Felvis-ubasineke%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-166
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Felvis-ubasineke%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-167
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fethan-conroy%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-154
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fethan-conroy%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-155
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fjack-sankey%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-164
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fjack-sankey%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-165
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fjayden-johnson%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-144
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fjayden-johnson%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-145
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fjoseph-swindells%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-146
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fjoseph-swindells%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-147
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Flouis-leyland%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-160
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Flouis-leyland%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-161
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fnathan-schall%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-142
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fnathan-schall%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-143
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fomar-abbassy%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-150
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fplayer%2Fomar-abbassy%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-151
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fresults%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-88
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fresults%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-89
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Froster%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-126
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Froster%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-127
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fterms-conditions%2F
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-104
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fmanchesterbasketballclub.co.uk%2Fterms-conditions%2F&format=xml
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\oembed\1.0\embed-105
+Content Type: text/xml
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/match_reports/1182
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\match_reports\1182-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/match_reports/1189
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\match_reports\1189-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/match_reports/1192
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\match_reports\1192-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/match_reports/1210
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\match_reports\1210-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/match_reports/1213
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\match_reports\1213-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/match_reports/1217
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\match_reports\1217-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/match_reports/829
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\match_reports\829-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/match_reports/979
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\match_reports\979-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/100
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\100-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/102
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\102-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/107
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\107-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/109
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\109-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\2-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/27
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\27-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/453
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\453-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/481
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\481-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/487
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\487-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/491
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\491-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/497
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\497-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/96
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\96-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/98
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\98-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/pages/998
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\pages\998-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1254
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1254-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1262
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1262-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1263
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1263-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1269
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1269-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1274
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1274-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1277
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1277-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1278
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1278-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1279
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1279-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1280
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1280-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1281
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1281-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1282
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1282-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1283
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1283-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/player/1284
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\player\1284-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/posts/1024
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\posts\1024-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/posts/1044
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\posts\1044-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/posts/1053
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\posts\1053-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/posts/1079
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\posts\1079-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/posts/1194
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\posts\1194-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/posts/1235
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\posts\1235-1
+Content Type: application/json
+
+Uri: https://manchesterbasketballclub.co.uk/wp-json/wp/v2/posts/815
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\wp-json\wp\v2\posts\815-1
+Content Type: application/json
+
+Uri: https://platform.twitter.com/widgets.js
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\widgets-1.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/splitting@1.0.6/dist/splitting-cells.css
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\splitting@1.0.6\dist\splitting-cells-1.css
+Content Type: text/css
+
+Uri: https://unpkg.com/splitting@1.0.6/dist/splitting.css
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\splitting@1.0.6\dist\splitting-1.css
+Content Type: text/css
+
+Uri: https://unpkg.com/splitting@1.0.6/dist/splitting.min.js
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\splitting@1.0.6\dist\splitting.min-1.js
+Content Type: application/javascript
+
+Uri: https://www.basketballengland.co.uk/media/18125/nbl-senior-structures-2022-23.pdf
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\media\18125\nbl-senior-structures-2022-23-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.basketballengland.co.uk/media/18127/nbl-junior-structures-2022-23.pdf
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\media\18127\nbl-junior-structures-2022-23-1.pdf
+Content Type: application/pdf
+
+Uri: https://www.google.com/recaptcha/api.js?hl=en&ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\recaptcha\api-1.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-3T15JYEGGE
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\gtag\js-1
+Content Type: application/javascript
+
+etballclub.co.uk\splitting@1.0.6\dist\splitting.css
+Content Type: text/css
+
+Uri: https://unpkg.com/splitting@1.0.6/dist/splitting.min.js
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\splitting@1.0.6\dist\splitting.min.js
+Content Type: application/javascript
+
+Uri: https://www.basketballengland.co.uk/media/18125/nbl-senior-structures-2022-23.pdf
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\media\18125\nbl-senior-structures-2022-23.pdf
+Content Type: application/pdf
+
+Uri: https://www.basketballengland.co.uk/media/18127/nbl-junior-structures-2022-23.pdf
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\media\18127\nbl-junior-structures-2022-23.pdf
+Content Type: application/pdf
+
+Uri: https://www.google.com/recaptcha/api.js?hl=en&ver=5.6.13
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-3T15JYEGGE
+File Name: C:\Downloaded Web Sites\manchesterbasketballclub.co.uk\gtag\js
+Content Type: application/javascript
+
